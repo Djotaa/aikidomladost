@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?> 
+    <rss version="2.0">
+        <channel>
+            <item>
+                <title>Termini treninga</title>
+                <link>termini</link>
+                <description>Ažurirali smo termine treninga!</description>
+            </item>
+            <item>
+                <title>Nova sala</title>
+                <link>termini</link>
+                <description>Dodali smo adresu naše nove sale!</description>
+            </item>
+        </channel>
+    </rss>
